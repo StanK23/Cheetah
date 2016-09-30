@@ -1,4 +1,4 @@
-Cheetah
+Cheetah v0.3
 ======
 
 Cheetah is an animation utility on iOS with Swift. Cheetah can animate any properties
@@ -8,7 +8,7 @@ Requirements
 ----
 
 - iOS 8.0~
-- Swift 2.0
+- Swift 3.0
 
 Features
 ----
